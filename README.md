@@ -7,7 +7,7 @@
 </div>
 
 - 📫 Today I am studying C# and JavaScript!
-- 👯 I look for work with Backend as a Jr Dev or Intern!
+- 👯 I look for work with Backend and Frontend as a Jr Dev or Intern!
 - 😄 Pronouns: he / his
 - ⚡ Fun fact: This is a great professional to have in your company: https://abre.ai/amazingdeveloper
   
