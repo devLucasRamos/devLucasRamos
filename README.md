@@ -1,4 +1,4 @@
-<img height="520em" src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/devlucasgifgit2.gif" alt="">
+<img src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/devlucasgifgit2.gif" alt="">
 <a></a>
 <img src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/yon2.png" alt="">
 <a></a>
