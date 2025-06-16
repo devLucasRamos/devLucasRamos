@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/lucasramos.png" alt="Profile banner" width="600">
-  <img src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/lucasramos.gif" alt="Animated profile GIF" width="600">
+  <img src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/lucasramos.gif" alt="Animated profile GIF" width="600" height="300"">
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
