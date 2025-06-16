@@ -1,49 +1,47 @@
-<img src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/devlucasgifgit2.gif" alt="">
-<a></a>
-<img src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/lucasramos.png" alt="">
-<a></a>
- 
-<div> 
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=devLucasRamos&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasRamos&layout=compact&langs_count=7&theme=outrun"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/lucasramos.png" alt="Profile banner" width="600">
+  <img src="https://raw.githubusercontent.com/devLucasRamos/devLucasRamos/main/.github/workflows/lucasramos.gif" alt="Animated profile GIF" width="600">
 </div>
 
-<a></a>
-  
-<div style="display: inline_block"><br>
-  
- <img align="left" alt="LR-Gatinho" height="160" width="160" src="https://media2.giphy.com/media/cMF3Fa3ZnLs8jk4xM4/giphy.gif?cid=ecf05e47c5ys25z99vok2qixgk3djran9isg1oslm2kw2gbh&rid=giphy.gif&ct=g">
- 
-  <img align="center" alt="LR-Csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="LR-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="LR-HTML"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="LR-CSS3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-
-<a></a>
-
- <img align="center" alt="LR-Dotnet"  src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
- <img align="center" alt="LR-React"  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
- <img align="center" alt="LR-Angular"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
- <img align="center" alt="LR-NodeJS"  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
- 
-<a></a>
- 
-<a></a>
-
- <img align="center" alt="LR-MySQL"  src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
- <img align="center" alt="LR-SQLITE"  src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
- 
-<a></a>
- 
-
- <a href = "mailto:lucas2adriano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" ></a>
- <a href="https://www.linkedin.com/in/devlucasramos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-   <a href="https://www.facebook.com/devLucasRamos/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a> 
- 
- 
- 
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=devLucasRamos&show_icons=true&theme=outrun&include_all_commits=true&count_private=true" alt="GitHub stats">
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devLucasRamos&layout=compact&langs_count=7&theme=outrun" alt="Top programming languages">
 </div>
-  
+
+<div align="center" style="margin: 20px 0;">
+  <h2>Skills</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">    
+    <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+    <img src="https://img.shields.io/badge/WordPress-006E93?style=for-the-badge&logo=wordpress&logoColor=white" alt="Wordpress">
+  </div>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+  <h2>Contact</h2>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <a href="wa.me/+5541998037134">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp">
+    </a>
+    <a href="mailto:devlucasramos@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://www.linkedin.com/in/lucasramostech" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+  </div>
+</div>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
